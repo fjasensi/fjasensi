@@ -63,7 +63,8 @@ I like projects that are practical, slightly obscure, and technically interestin
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=fjasensi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=fjasensi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/></p>
+<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fjasensi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </p>
 
