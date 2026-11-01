@@ -36,7 +36,8 @@ I like projects that are practical, slightly obscure, and technically interestin
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,aws,docker,linux,git,github,bash,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,aws,docker,linux,git,github,bash" />
+  <img src="assets/zed.png" alt="Zed" width="48" height="48" />
 </p>
 
 <p align="center">
